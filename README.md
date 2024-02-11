@@ -1,1 +1,1 @@
-this my first try with pygame
+Classic Tetris using pygame ,with scoring and movement 
